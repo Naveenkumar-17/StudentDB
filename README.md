@@ -58,10 +58,9 @@ Before you begin, ensure you have met the following requirements:
 ## Screenshots
 
 📸 **Main Menu**  
-![Main Menu](screenshots/main_menu.png)
+![Main Menu](screenshots/options.png)
 
-📸 **Add Student**  
-![Add Student](screenshots/add_student.png)
+ 
 
 ## Contributing
 
